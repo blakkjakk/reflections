@@ -14,5 +14,5 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 verbal/chats checks and merging before uploading
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
-when working on separate issue to master
+You could make your changes directly to the master branch in your fork, but when contributing to a public repository, it’s standard practice to make the changes in a non-master branch within the fork. This way, you can easily keep your master branch up-to-date with master of the original repository, and merge changes from master into your branch when you are ready.when working on separate issue to master
 
